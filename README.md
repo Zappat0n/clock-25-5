@@ -33,7 +33,7 @@ After doing this you can start and stop the clock and reset the timer.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://zappat0n.github.io/clock-25-5/)
 
 
 ## Getting Started
