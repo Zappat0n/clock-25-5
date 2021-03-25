@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.Setters {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+.Setter {
+  margin: 0 1rem;
+}
+
+.pointer:hover {
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0.5rem;
+}
+
+span {
+  font-size: 3rem;
+  font-weight: bold;
+  color: bisque;
+}
+
+h3 {
+  font-size: 1.75rem;
+  margin: 0.25rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+  margin: 0.25rem;
+}
+
+.line-arrows {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Display {
+  border: 5px solid white;
+  border-radius: 1.5rem;
+  padding: 1rem;
+  width: 40%;
+  margin: auto;
+}
+
+.icons {
+  margin-top: 0.5rem;
+  width: 2rem;
+}
+
+.icon {
+  width: 1rem;
+  padding-left: 0.5rem;
+}
+
+.container-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+}
